@@ -53,39 +53,38 @@ while True:
         # Three Card Spread
         elif card_spread_choice[0] == 'three' and card_spread_choice[1] == "cards":
             tarot_spread = three_card_spread
-            print(f"""You chose the Three Card Spread. 
-            This spread includes the following 
-            positions:\n{three_card_spread.card_position_description}""")
+            print(f"""You chose the Three Card Spread.""")
+
             i = 0
             while i < 3:
-                for card in tarot_card_names:
-                  res = key, val = random.choice(tuple(tarot_card_names.items()))
-                  if res != client.client_readings:
-                      client.client_readings.append(tuple(res))
-                      i += 1
-                      print(res)
-                # Bug - Will print duplicate cards. Can only print a card once during a read
+                cards = []
+                card = key, val = random.choice(tuple(tarot_card_names.items()))
+
+                if card not in cards:
+                    cards.append(card)
+                    print(three_card_spread.card_position_description[i])
+                    print(card)
+                    i += 1
+                # Bug - Will only print duplicates if run the same spread in a row
                 # Bug - Fix Output Format
-                # Bug - Does not append res to client.client_readings list.
-                # Format - Print card position with card
 
         # Celtic Cross
         elif card_spread_choice[0] == 'celtic' and card_spread_choice[1] == "cross":
             tarot_spread = celtic_cross_spread
-            print(f"""You chose the Celtic Cross Spread. 
-            This spread includes the following 
-            positions:\n{celtic_cross_spread.card_position_description}""")
+            print(f"""You chose the Celtic Cross Spread.""") 
+
             i = 0
             while i < 10:
-                for card in tarot_card_names:
-                  res = key, val = random.choice(tuple(tarot_card_names.items()))
-                  if res != client.client_readings:
-                      client.client_readings.append(tuple(res))
-                      i += 1
-                      print(res)
+                cards = []
+                card = key, val = random.choice(tuple(tarot_card_names.items()))
+
+                if card not in cards:
+                    cards.append(card)
+                    print(celtic_cross_spread.card_position_description[i])
+                    print(card)
+                    i += 1
                 # Bug - Will print duplicate cards. Can only print a card once during a read
                 # Bug - Fix Output Format
-                # Bug - Does not append res to client.client_readings list.
 
         # Error Handling
         else:
