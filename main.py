@@ -53,35 +53,12 @@ while True:
         # Three Card Spread
         elif card_spread_choice[0] == 'three' and card_spread_choice[1] == "cards":
             print(f"""You chose the Three Card Spread.""")
-
-            i = 0
-            cards = []
-            while i < 3:
-                card = key, val = random.choice(tuple(tarot_card_names.items()))
-
-                if card not in cards:
-                    cards.append(card)
-                    print(three_card_spread.card_position_description[i])
-                    print(card)
-                    i += 1
-                # Bug - Fix Output Format
+            three_card_spread.get_cards(three_card_spread.spread_name, 3)
 
         # Celtic Cross
         elif card_spread_choice[0] == 'celtic' and card_spread_choice[1] == "cross":
             print(f"""You chose the Celtic Cross Spread.""") 
-
-            i = 0
-            cards = []
-            while i < 10:
-                card = key, val = random.choice(tuple(tarot_card_names.items()))
-
-                if card not in cards:
-                    cards.append(card)
-                    print(celtic_cross_spread.card_position_description[i])
-                    print(card)
-                    i += 1
-                # Bug - Will print duplicate cards. Can only print a card once during a read
-                # Bug - Fix Output Format
+            celtic_cross_spread.get_cards(celtic_cross_spread.spread_name, 10)
 
         # Error Handling
         else:
