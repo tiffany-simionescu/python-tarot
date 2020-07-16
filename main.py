@@ -5,7 +5,7 @@ from card_position import CardPosition
 from spread import Spread
 import random
 from card_spreads import one_card_spread, three_card_spread, celtic_cross_spread
-from major_arcana import tarot_card_names
+from all_cards import tarot_card_names
 
 # Commands for Tarot Spreads
 tarot_spreads = ['one', 'three', 'celtic']

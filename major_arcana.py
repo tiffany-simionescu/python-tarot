@@ -99,28 +99,3 @@ judgement = Card("20 - Judgement",
 the_world = Card("21 - The World", 
 """This is the World's description""", 
 ["beginnings", "starts"])
-
-tarot_card_names = {
-  1: the_fool,
-  2: the_magician,
-  3: the_high_priestess,
-  4: the_empress, 
-  5: the_emperor,
-  6: the_hierophant,
-  7: the_lovers,
-  8: the_chariot,
-  9: strength,
-  10: the_hermit,
-  11: wheel_of_fortune,
-  12: justice,
-  13: the_hanged_man,
-  14: death,
-  15: temperance,
-  16: the_devil,
-  17: the_tower,
-  18: the_star,
-  19: the_moon,
-  20: the_sun,
-  21: judgement,
-  22: the_world
-}

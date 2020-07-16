@@ -1,5 +1,5 @@
 import random
-from major_arcana import tarot_card_names
+from all_cards import tarot_card_names
 
 class Spread:
     def __init__(self, spread_name, quantity, card_position_description = []):
