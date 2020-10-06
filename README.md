@@ -27,3 +27,6 @@ Spread:
 
 Other Options:
 - quit / q 
+
+<!-- Still needs Card Descriptions -->
+<!-- Still needs card position descriptions -->

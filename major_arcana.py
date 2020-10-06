@@ -33,8 +33,10 @@ His goals are always aligned with the greater good.""",
 ["structure", "authority", "discipline"])
 
 the_hierophant = Card("5 - The Hierophant", 
-"""This is the Hierophant's description""", 
-["beginnings", "starts"])
+"""This card suggests that it's better for you to follow social structures 
+and traditions. It's time to embrace the conventional. You must learn to 
+adapt to certain beliefs and systems which have already been put in place.""", 
+["spiritual freedom", "religious beliefs", "tradition"])
 
 the_lovers = Card("6 - The Lovers", 
 """This is the Lover's description""", 
