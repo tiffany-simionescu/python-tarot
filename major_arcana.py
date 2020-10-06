@@ -46,7 +46,7 @@ possibly result in marriage.""",
 
 the_chariot = Card("7 - The Chariot", 
 """This is the Chariot's description""", 
-["beginnings", "starts"])
+["success", "ambition", "self-discipline"])
 
 strength = Card("8 - Strength", 
 """This is Strength's description""", 
