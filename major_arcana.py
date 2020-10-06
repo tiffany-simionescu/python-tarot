@@ -45,7 +45,9 @@ possibly result in marriage.""",
 ["love", "relationships", "romance"])
 
 the_chariot = Card("7 - The Chariot", 
-"""This is the Chariot's description""", 
+"""This card shows that you should pursue your plan with a structured approach.
+You must maintain focus, confidence, and determination. Your boldness and
+strength will help you to achieve your goals.""", 
 ["success", "ambition", "self-discipline"])
 
 strength = Card("8 - Strength", 
