@@ -39,7 +39,9 @@ adapt to certain beliefs and systems which have already been put in place.""",
 ["spiritual freedom", "religious beliefs", "tradition"])
 
 the_lovers = Card("6 - The Lovers", 
-"""This is the Lover's description""", 
+"""This is the card of unity of lovers. This card could indicate a new exciting 
+relationship full of harmony and attraction. The bond will be strong and could 
+possibly result in marriage.""", 
 ["love", "relationships", "romance"])
 
 the_chariot = Card("7 - The Chariot", 
