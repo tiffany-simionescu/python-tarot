@@ -40,7 +40,7 @@ adapt to certain beliefs and systems which have already been put in place.""",
 
 the_lovers = Card("6 - The Lovers", 
 """This is the Lover's description""", 
-["beginnings", "starts"])
+["love", "relationships", "romance"])
 
 the_chariot = Card("7 - The Chariot", 
 """This is the Chariot's description""", 
