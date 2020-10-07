@@ -51,8 +51,10 @@ strength will help you to achieve your goals.""",
 ["success", "ambition", "self-discipline"])
 
 strength = Card("8 - Strength", 
-"""This is Strength's description""", 
-["beginnings", "starts"])
+"""This card shows that you have inner strength and the ability to remain calm.
+You are a very patient person who can achieve anything you set your mind to.
+This is a time to be fearless and speak your mind.""", 
+["courage", "bravery", "confidence"])
 
 the_hermit = Card("9 - The Hermit", 
 """This is the Hermit's description""", 
