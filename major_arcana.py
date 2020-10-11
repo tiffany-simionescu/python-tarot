@@ -58,7 +58,7 @@ This is a time to be fearless and speak your mind.""",
 
 the_hermit = Card("9 - The Hermit", 
 """This is the Hermit's description""", 
-["beginnings", "starts"])
+["self-reflection", "withdrawal", "introspection"])
 
 wheel_of_fortune = Card("10 - Wheel of Fortune", 
 """This is the Wheel of Fortune's description""", 
