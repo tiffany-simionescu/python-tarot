@@ -57,12 +57,16 @@ This is a time to be fearless and speak your mind.""",
 ["courage", "bravery", "confidence"])
 
 the_hermit = Card("9 - The Hermit", 
-"""This is the Hermit's description""", 
+"""This card shows that it is time to be alone. 
+This is the time to find peace with your inner thoughts.
+Plan your next move accordingly.""", 
 ["self-reflection", "withdrawal", "introspection"])
 
 wheel_of_fortune = Card("10 - Wheel of Fortune", 
-"""This is the Wheel of Fortune's description""", 
-["beginnings", "starts"])
+"""This card shows that there will be good fortune that comes in cycles.
+There will be ups and downs, but you must learn to deal with both properly.
+While things are good, it is time for action!""", 
+["good fortune", "taking action", "balance"])
 
 justice = Card("11 - Justice", 
 """This is the Justice's description""", 
