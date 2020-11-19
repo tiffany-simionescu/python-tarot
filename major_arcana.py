@@ -69,8 +69,10 @@ While things are good, it is time for action!""",
 ["good fortune", "taking action", "balance"])
 
 justice = Card("11 - Justice", 
-"""This is the Justice's description""", 
-["beginnings", "starts"])
+"""This card shows that you will get what you deserve, which may not be
+exactly what you were hoping for. The court of judgement will turn in your
+favor with the fairest decision being made.""", 
+["fair", "judgement"])
 
 the_hanged_man = Card("12 - The Hanged Man", 
 """This is the Hanged Man's description""", 
