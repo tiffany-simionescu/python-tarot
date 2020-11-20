@@ -75,8 +75,11 @@ favor with the fairest decision being made.""",
 ["fair", "judgement"])
 
 the_hanged_man = Card("12 - The Hanged Man", 
-"""This is the Hanged Man's description""", 
-["beginnings", "starts"])
+"""This card shows that it's time to re-examine your priorities.
+You may be currently suspended between old and new beliefs.
+Try not to stress too much about this. You have the ability to get through this.
+""", 
+["letting go", "surrender", "new perspective"])
 
 death = Card("13 - Death", 
 """This is the Death's description""", 
