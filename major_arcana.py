@@ -82,8 +82,10 @@ Try not to stress too much about this. You have the ability to get through this.
 ["letting go", "surrender", "new perspective"])
 
 death = Card("13 - Death", 
-"""This is the Death's description""", 
-["beginnings", "starts"])
+"""This card represents the end of an old way of thinking into the new way.
+This is going to be a change in your life for the better.
+This could also be the end of a relationship or loss of a job.""", 
+["transition", "new start", "endings"])
 
 temperance = Card("14 - Temperance", 
 """This is Temperance's description""", 
