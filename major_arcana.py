@@ -88,8 +88,10 @@ This could also be the end of a relationship or loss of a job.""",
 ["transition", "new start", "endings"])
 
 temperance = Card("14 - Temperance", 
-"""This is Temperance's description""", 
-["beginnings", "starts"])
+"""This card is telling you to that it's time to make peace and let go.
+A harmonious relationship will enter your life. Just give it time.
+You will have to be willing to compromise.""", 
+["patience", "compromise", "let go"])
 
 the_devil = Card("15 - The Devil", 
 """This is the Devil's description""", 
