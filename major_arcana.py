@@ -94,8 +94,10 @@ You will have to be willing to compromise.""",
 ["patience", "compromise", "let go"])
 
 the_devil = Card("15 - The Devil", 
-"""This is the Devil's description""", 
-["beginnings", "starts"])
+"""This is a card of lust, passion and obsession.There is a sexual
+energy that is longing to be expressed. You're not able to let it go.
+Could possibly be an unhealthy attachment.""", 
+["lust", "passion", "obsession"])
 
 the_tower = Card("16 - The Tower", 
 """This is the Tower's description""", 
