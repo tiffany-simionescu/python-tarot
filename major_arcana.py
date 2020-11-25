@@ -100,8 +100,10 @@ Could possibly be an unhealthy attachment.""",
 ["lust", "passion", "obsession"])
 
 the_tower = Card("16 - The Tower", 
-"""This is the Tower's description""", 
-["beginnings", "starts"])
+"""This card is a sign of an argument or a disagreement.
+This will be the time when you will find out the truth with new insight.
+You have a choice, so don't waist it!""", 
+["arguments", "disagreements", "truth"])
 
 the_star = Card("17 - The Star", 
 """This is the Star's description""", 
