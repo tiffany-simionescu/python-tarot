@@ -106,8 +106,10 @@ You have a choice, so don't waist it!""",
 ["arguments", "disagreements", "truth"])
 
 the_star = Card("17 - The Star", 
-"""This is the Star's description""", 
-["beginnings", "starts"])
+"""This is a card about faith and connecting to your higher self.
+You should trust your intuition. You have the Universe's support
+to try something new!""", 
+["faith", "intuition", "stregnth"])
 
 the_moon = Card("18 - The Moon", 
 """This is the Moon's description""", 
