@@ -112,8 +112,10 @@ to try something new!""",
 ["faith", "intuition", "stregnth"])
 
 the_moon = Card("18 - The Moon", 
-"""This is the Moon's description""", 
-["beginnings", "starts"])
+"""This cards shows that the current situation is unclear and confusing.
+There may be some inner conflict with the uncertainty.
+More information is needed to come to the surface.""", 
+["unclear", "inner conflict", "confusing"])
 
 the_sun = Card("19 - The Sun", 
 """This is the Sun's description""", 
