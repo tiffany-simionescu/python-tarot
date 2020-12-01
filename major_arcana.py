@@ -112,14 +112,16 @@ to try something new!""",
 ["faith", "intuition", "stregnth"])
 
 the_moon = Card("18 - The Moon", 
-"""This cards shows that the current situation is unclear and confusing.
+"""This card shows that the current situation is unclear and confusing.
 There may be some inner conflict with the uncertainty.
 More information is needed to come to the surface.""", 
 ["unclear", "inner conflict", "confusing"])
 
 the_sun = Card("19 - The Sun", 
-"""This is the Sun's description""", 
-["beginnings", "starts"])
+"""This card is a sign of great communication and negotiations going 
+well. You will hear from someone you've been waiting for. 
+Things are looking bright for you.""", 
+["communication", "negotiations", "happiness"])
 
 judgement = Card("20 - Judgement", 
 """This is Judgement's description""", 
