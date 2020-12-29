@@ -124,8 +124,10 @@ Things are looking bright for you.""",
 ["communication", "negotiations", "happiness"])
 
 judgement = Card("20 - Judgement", 
-"""This is Judgement's description""", 
-["beginnings", "starts"])
+"""This card often indicates that you need to make a life-changing 
+decision, but unlike those associated with the logical Justice card, 
+this decision requires a blend of intuition and intellect. """, 
+["judgement", "rebirth", "inner calling"])
 
 the_world = Card("21 - The World", 
 """This is the World's description""", 
