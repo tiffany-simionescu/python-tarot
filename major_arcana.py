@@ -130,5 +130,7 @@ this decision requires a blend of intuition and intellect. """,
 ["judgement", "rebirth", "inner calling"])
 
 the_world = Card("21 - The World", 
-"""This is the World's description""", 
-["beginnings", "starts"])
+"""This card represents an ending to a cycle of life, a pause in life 
+before the next big cycle beginning with the fool. It is an indicator 
+of a major and inexorable change, of tectonic breadth.""", 
+["endings", "change", "pause"])
