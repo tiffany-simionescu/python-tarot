@@ -1,8 +1,12 @@
 from card import Card
 
 coins_ace = Card("Ace of Coins", 
-"""This is Ace of Coins' description""", 
-["beginnings", "starts"])
+"""You may receive a new job offer, an unexpected sum of money, 
+a new business or investment opportunity may come your way, or 
+you’ll have the chance to bring an idea to fruition. No matter 
+the occasion, the Ace of Pentacles heralds a sense of prosperity 
+and abundance in the material or financial areas of your life.""", 
+["new career", "finances", "abundance"])
 
 coins_2 = Card("Two of Coins", 
 """This is Two of Coins' description""", 
