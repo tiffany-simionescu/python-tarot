@@ -9,8 +9,12 @@ and abundance in the material or financial areas of your life.""",
 ["new career", "finances", "abundance"])
 
 coins_2 = Card("Two of Coins", 
-"""This is Two of Coins' description""", 
-["beginnings", "starts"])
+"""A card when upright means to juggle, to struggle in a positive 
+influence, to balance, to maintain. To keep your head up but feel 
+like you want to jump out of your skin. It symbolizes an internal 
+mental struggle, being unsure not knowing your path during 
+accention.""", 
+["juggle", "balance", "mental struggle"])
 
 coins_3 = Card("Three of Coins", 
 """This is Three of Coins' description""", 
