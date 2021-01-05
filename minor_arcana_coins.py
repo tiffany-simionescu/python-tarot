@@ -17,8 +17,13 @@ accention.""",
 ["juggle", "balance", "mental struggle"])
 
 coins_3 = Card("Three of Coins", 
-"""This is Three of Coins' description""", 
-["beginnings", "starts"])
+"""Each person has an important role to play, and when they come 
+together as a team, they can create something much more significant 
+than if they were to undertake the project on their own. So, when 
+the Three of Pentacles turns up in a Tarot reading, take it as a 
+sign to collaborate with others, creating synergies to achieve big 
+results.""", 
+["teamwork", "collaboration", "learning"])
 
 coins_4 = Card("Four of Coins", 
 """This is Four of Coins' description""", 
